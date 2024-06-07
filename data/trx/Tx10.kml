@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Tx10.kml</name>
+	<Style id="linestyle">
+			<LineStyle>
+				<color>#FFFFFFFF</color>
+				<width>1</width>
+			</LineStyle>
+	</Style>
+	<Placemark>
+		<name>untitled</name>
+		<styleUrl>#linestyle</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<altitudeMode>clampToSeaFloor</altitudeMode>
+			<coordinates>
+				11.857097,50.543397,0 11.856427,50.543722,0 11.856085,50.543420,0 11.849387,50.537945,0 11.848515,50.537130,0 11.847959,50.537034,0 11.847516,50.536881,0 11.847085,50.536634,0 11.846302,50.536222,0 11.845570,50.535842,0 11.842582,50.534805,0 11.841662,50.534448,0 11.841450,50.534367,0 11.840855,50.533926,0 11.840531,50.533643,0 11.840268,50.533306,0 11.839238,50.531577,0 11.839017,50.531626,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
